@@ -2,9 +2,9 @@
 
 Predicts whether a breast tumour is malignant or benign using machine learning.
 
-## GitHub URL : https://github.com/harekrishna10/breast-cancer-prediction
+# GitHub URL : https://github.com/harekrishna10/breast-cancer-prediction
 
-## Streamlit Web app Live Demo : https://breast-cancer-prediction-10.streamlit.app/
+# Streamlit Web app Live Demo : https://breast-cancer-prediction-10.streamlit.app/
 
 ## Dataset
 
